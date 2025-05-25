@@ -26,8 +26,9 @@ To solve the Graph Coloring Problem using backtracking, assigning colors to the 
 
 ## Program:
 ```
-# Developed by: Yuva Krishna K 
-# Register Number:  212222110056
+# Developed by: Vijis Durai R
+# Register Number: 212222220057
+
 
 class Graph:
     def __init__(self,vertices):
